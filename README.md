@@ -1,3 +1,5 @@
+Link to dashboard : https://app.powerbi.com/groups/me/reports/b6985160-18f7-4739-9795-e859288be6d3/ReportSection?experience=power-bi
+
 # HR-Dashboard---Employee-Insights👥 Workforce Overview
 Highest concentration of employees in Sales and R&D departments.
 
